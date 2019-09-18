@@ -52,7 +52,7 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.6.3)
-    devise (4.6.0)
+    devise (4.7.1)
       bcrypt-ruby (~> 3.0)
       orm_adapter (~> 0.1)
       railties (>= 3.2.6, < 5)
@@ -150,7 +150,7 @@ DEPENDENCIES
   aws-sdk (~> 1.20.0)
   bootstrap-sass!
   coffee-rails (~> 4.0.0)
-  devise (~> 4.6.0)
+  devise (~> 4.7.1)
   jbuilder (~> 1.2)
   jquery-rails (~> 4.3.1)
   paperclip (~> 5.2)
